@@ -1,0 +1,20 @@
+# UltraCrypto Framework Dependencies
+# Minimal dependencies for demonstration purposes
+
+# Core Python libraries (standard library - no external dependencies needed)
+# The UltraCrypto Framework is designed to be dependency-free for maximum compatibility
+
+# For demonstration and testing only:
+hashlib  # Built-in Python module
+time     # Built-in Python module  
+random   # Built-in Python module
+datetime # Built-in Python module
+
+# Optional dependencies for enhanced features:
+# numpy>=1.21.0        # For advanced mathematical operations (optional)
+# matplotlib>=3.5.0    # For performance visualization (optional)
+# cryptography>=3.4.0  # For additional cryptographic primitives (optional)
+
+# Note: The core UltraCrypto algorithms are implemented using only
+# Python standard library to ensure maximum portability and security.
+# External dependencies are optional and only used for enhanced features.

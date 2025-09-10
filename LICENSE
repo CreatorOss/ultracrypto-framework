@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2025 CreatorOss
+=======
+Copyright (c) 2025 BENNY HARIANTO
+>>>>>>> 14b4d19 (Initial commit - UltraCrypto Framework by BENNY HARIANTO)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +23,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
+=======
+
+---
+
+ADDITIONAL PATENT PROTECTION NOTICE:
+
+This software implements the UltraCrypto Multi-Dimensional Encryption Framework,
+which is the subject of pending patent applications. The framework integrates
+chaos theory, quantum mechanics, molecular biology, and fractal geometry for
+cryptographic applications.
+
+Inventor: BENNY HARIANTO
+Email: creatoropensource@gmail.com
+LinkedIn: www.linkedin.com/in/bennyharianto-024868383
+Patent Status: Application in preparation
+Priority Date: September 10, 2025
+
+Commercial licensing and partnership opportunities are available.
+For business inquiries, please contact the inventor directly.
+
+The core algorithms and implementation details may be subject to additional
+intellectual property protections beyond this open source license.
+>>>>>>> 14b4d19 (Initial commit - UltraCrypto Framework by BENNY HARIANTO)

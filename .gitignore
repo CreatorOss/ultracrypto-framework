@@ -1,0 +1,102 @@
+# UltraCrypto Framework - Git Ignore File
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Test outputs
+test_results/
+coverage/
+.coverage
+.pytest_cache/
+
+# Demo outputs
+*_demo_report_*.txt
+ultracrypto_demo_report_*.txt
+
+# Sensitive information (should never be committed)
+*.key
+*.pem
+*.p12
+*.pfx
+config/secrets.py
+.env.local
+.env.production
+
+# Documentation builds
+docs/_build/
+site/
+
+# Backup files
+*.bak
+*.backup
+
+# UltraCrypto specific
+# Protect any actual implementation files if accidentally placed here
+*_implementation.py
+*_actual_algorithm.py
+*_real_params.py
+proprietary/
+trade_secrets/
+
+# Patent and legal documents (keep public versions only)
+patent_application/
+legal_confidential/
+
+# Business sensitive information
+client_data/
+contracts/
+pricing/
+partnerships/
