@@ -1,10 +1,6 @@
 MIT License
 
-<<<<<<< HEAD
-Copyright (c) 2025 CreatorOss
-=======
 Copyright (c) 2025 BENNY HARIANTO
->>>>>>> 14b4d19 (Initial commit - UltraCrypto Framework by BENNY HARIANTO)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,11 +16,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+LIABILIY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-<<<<<<< HEAD
-=======
 
 ---
 
@@ -46,4 +40,27 @@ For business inquiries, please contact the inventor directly.
 
 The core algorithms and implementation details may be subject to additional
 intellectual property protections beyond this open source license.
->>>>>>> 14b4d19 (Initial commit - UltraCrypto Framework by BENNY HARIANTO)
+
+---
+
+IMPORTANT NOTICE - 3-LAYER PROTECTION STRATEGY:
+
+This repository implements a 3-layer intellectual property protection strategy:
+
+🔓 LAYER 1 - PUBLIC LICENSE (This MIT License):
+   • Allows viewing, evaluation, and educational use
+   • Provides basic legal protection and attribution
+   • Suitable for public GitHub repository access
+
+💰 LAYER 2 - COMMERCIAL LICENSE:
+   • Required for commercial use and deployment
+   • Available through separate commercial licensing agreement
+   • Contact inventor for commercial terms and pricing
+
+🤝 LAYER 3 - NDA PROTECTION:
+   • Required before accessing detailed technical specifications
+   • Protects trade secrets during evaluation and negotiation
+   • Contact inventor for NDA execution before technical discussions
+
+For commercial licensing or NDA execution, contact:
+BENNY HARIANTO - creatoropensource@gmail.com
