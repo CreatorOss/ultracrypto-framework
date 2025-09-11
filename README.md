@@ -304,6 +304,7 @@ If you find this breakthrough technology interesting, please ⭐ **star this rep
 ---
 
 **© 2025 BENNY HARIANTO. All rights reserved.**  
+**www.linkedin.com/in/bennyharianto-024868383
 **Patent Pending - Revolutionary Multi-Dimensional Encryption Technology**
 
 ---
